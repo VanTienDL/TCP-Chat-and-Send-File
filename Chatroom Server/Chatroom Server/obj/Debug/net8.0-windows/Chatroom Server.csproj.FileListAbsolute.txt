@@ -1,0 +1,16 @@
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\bin\Debug\net8.0-windows\Chatroom Server.exe
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\bin\Debug\net8.0-windows\Chatroom Server.deps.json
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\bin\Debug\net8.0-windows\Chatroom Server.runtimeconfig.json
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\bin\Debug\net8.0-windows\Chatroom Server.dll
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\bin\Debug\net8.0-windows\Chatroom Server.pdb
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom_Server.Server.resources
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom Server.csproj.GenerateResource.cache
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom Server.AssemblyInfoInputs.cache
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom Server.AssemblyInfo.cs
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom Server.csproj.CoreCompileInputs.cache
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom Server.dll
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\refint\Chatroom Server.dll
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom Server.pdb
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\Chatroom Server.genruntimeconfig.cache
+D:\Bai Tap UIT\Chatroom Server\Chatroom Server\obj\Debug\net8.0-windows\ref\Chatroom Server.dll

@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai Tap UIT\\ChatRoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010B5823-9FA1-4594-B34E-FF1A4CA0DC86}|..\\Chatroom Server\\Chatroom Server\\Chatroom Server.csproj|d:\\bai tap uit\\chatroom server\\chatroom server\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010B5823-9FA1-4594-B34E-FF1A4CA0DC86}|..\\Chatroom Server\\Chatroom Server\\Chatroom Server.csproj|d:\\bai tap uit\\chatroom server\\chatroom server\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058AB187-4672-471C-BA76-0587E9FC6199}|ChatRoom\\ChatRoom.csproj|d:\\bai tap uit\\chatroom\\chatroom\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058AB187-4672-471C-BA76-0587E9FC6199}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058AB187-4672-471C-BA76-0587E9FC6199}|ChatRoom\\ChatRoom.csproj|D:\\Bai Tap UIT\\ChatRoom\\chatroom\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{058AB187-4672-471C-BA76-0587E9FC6199}|ChatRoom\\ChatRoom.csproj|solutionrelative:chatroom\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 235,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormClient.cs",
+              "DocumentMoniker": "D:\\Bai Tap UIT\\ChatRoom\\ChatRoom\\FormClient.cs",
+              "RelativeDocumentMoniker": "ChatRoom\\FormClient.cs",
+              "ToolTip": "D:\\Bai Tap UIT\\ChatRoom\\ChatRoom\\FormClient.cs",
+              "RelativeToolTip": "ChatRoom\\FormClient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:26:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormClient.cs [Design]",
+              "DocumentMoniker": "D:\\Bai Tap UIT\\ChatRoom\\ChatRoom\\FormClient.cs",
+              "RelativeDocumentMoniker": "ChatRoom\\FormClient.cs",
+              "ToolTip": "D:\\Bai Tap UIT\\ChatRoom\\ChatRoom\\FormClient.cs [Design]",
+              "RelativeToolTip": "ChatRoom\\FormClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:26:52.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormServer.cs",
+              "DocumentMoniker": "D:\\Bai Tap UIT\\Chatroom Server\\Chatroom Server\\FormServer.cs",
+              "RelativeDocumentMoniker": "..\\Chatroom Server\\Chatroom Server\\FormServer.cs",
+              "ToolTip": "D:\\Bai Tap UIT\\Chatroom Server\\Chatroom Server\\FormServer.cs",
+              "RelativeToolTip": "..\\Chatroom Server\\Chatroom Server\\FormServer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:25:37.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormServer.cs [Design]",
+              "DocumentMoniker": "D:\\Bai Tap UIT\\Chatroom Server\\Chatroom Server\\FormServer.cs",
+              "RelativeDocumentMoniker": "..\\Chatroom Server\\Chatroom Server\\FormServer.cs",
+              "ToolTip": "D:\\Bai Tap UIT\\Chatroom Server\\Chatroom Server\\FormServer.cs [Design]",
+              "RelativeToolTip": "..\\Chatroom Server\\Chatroom Server\\FormServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:22:42.905Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
